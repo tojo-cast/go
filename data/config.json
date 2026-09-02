@@ -1,0 +1,17 @@
+{
+  "siteName": "東上キャスト",
+  "siteOrigin": "https://tojo-cast.com",
+  "businessType": "女性向け風俗、女性向け性感マッサージ",
+  "reservationEmail": "tojo.cast@gmail.com",
+  "recruitEmail": "tojo.cast@gmail.com",
+  "reservationSubject": "【予約相談】東上キャストへの問い合わせ",
+  "recruitSubject": "【求人応募】東上キャストへの応募",
+  "lineReserveUrl": "https://lin.ee/n9Ad3y6",
+  "lineRecruitUrl": "https://lin.ee/n9Ad3y6",
+  "phone": "LINEまたはメールにて受付",
+  "recommendedCastIds": [
+    "cast-a"
+  ],
+  "scheduleDisplayDays": 21,
+  "displayStartDate": ""
+}
